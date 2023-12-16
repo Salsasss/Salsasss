@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Me llamo Aarón Salas Chávez</h1>
-<h3 align="center">Un apasionado de la programación con gran interés por el backend</h3>
+<h3 align="center">Soy un apasionado de la programación con gran interés por el backend</h3>
 
 - 🌱 I’m currently learning **profundizando en Python, y en inglés**
 
